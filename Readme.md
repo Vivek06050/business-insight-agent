@@ -30,5 +30,4 @@ Built for the **HOLON x KBI AI Agents Hackathon 2025**.
 
 ---
 
-## 📁 Folder Structure
 
